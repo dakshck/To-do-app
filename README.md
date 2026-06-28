@@ -35,12 +35,10 @@ A simple CLI To-Do application written in C for managing daily tasks.a learning 
 
 **With gcc:**
 ```bash
-gcc to-do.c -o todo
-./todo
+gcc to-do.c -o todo && ./todo
 ```
 
 **With Clang:**
 ```bash
-clang to-do.c -o todo
-./todo
+clang to-do.c -o todo && ./todo
 ```
