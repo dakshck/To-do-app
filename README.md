@@ -9,6 +9,7 @@ A simple CLI To-Do application written in C for managing daily tasks.a learning 
 - List Task 
 - Delete tasks
 - Formatted Output
+- Uses functions for faster data handling
 
 ---
 
@@ -18,6 +19,7 @@ A simple CLI To-Do application written in C for managing daily tasks.a learning 
 - `switch()` statement
 - Using `strcpy` for shifting arrays
 - Delete Concept with arrays
+- arrayt handling with pointers
 
 ---
 
@@ -25,7 +27,7 @@ A simple CLI To-Do application written in C for managing daily tasks.a learning 
 
 - more decisions under add, del, and list tasks
 - task reminder, deadline Features
-- functions for faster data handling
+- aesthetic looking dashboard (idk why i am gonna make it this good!!)
 
 ---
 
