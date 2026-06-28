@@ -19,7 +19,7 @@ A simple CLI To-Do application written in C for managing daily tasks.a learning 
 - `switch()` statement
 - Using `strcpy` for shifting arrays
 - Delete Concept with arrays
-- arrayt handling with pointers
+- array handling with pointers
 
 ---
 
